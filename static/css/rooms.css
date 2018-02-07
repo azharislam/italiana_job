@@ -1,0 +1,175 @@
+.title {
+  font-size: 20px;
+}
+h1 {
+}
+h2 {
+  font-size: 3.3vw;
+  font-family: avenir;
+  text-align: center;
+}
+h3 {
+  font-size: 2vw;
+  font-family: avenir;
+  text-align: center;
+}
+p {
+  font-family: avenir;
+}
+a {
+  font-family: avenir;
+}
+img {
+  width: 100%;
+  height: 100%;
+}
+.pageHeader {
+  position: relative;
+}
+.header {
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+.carousel {
+  height: 100%;
+  width: 100%;
+}
+.topNav {
+  font-family: verdana;
+}
+.container {
+  position: relative;
+  margin-top: 30%;
+  margin-bottom: 30%;
+}
+.cardOne {
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  width: 84%;
+  height: 50%;
+  top: -16%;
+  left: 8%;
+  background-color: #fff;
+  -webkit-box-shadow: 3px 3px 32px 2px lightgray;
+  -moz-box-shadow: 3px 3px 32px 2px lightgray;
+  box-shadow: 3px 3px 32px 2px lightgray;
+}
+.cardOneText {
+  width: 40%;
+  height: 90%;
+  padding-top: 20px;
+  padding-left: 50px;
+  font-size: 1.41vw;
+  line-height: 1.5em;
+}
+.cardOneImg {
+  width: 45%;
+  height: 80%;
+  padding: 5%;
+}
+.cardTwo {
+  width: 60%;
+  bottom: -20%;
+  left: 20%;
+  right: 20%;
+  height: 50%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  position: absolute;
+  background-color: #fff;
+}
+.cardTwoImg {
+  width: 100%;
+}
+.cardTwoText {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.cardTwoLink {
+  position: absolute;
+  bottom: 10%;
+  border: 1px solid white;
+  padding: 14px 25px;
+  text-align: center;
+}
+.cardTwoLink > a {
+  color: white;
+  font-size: 1.41vw;
+  text-decoration: none;
+}
+.cardThree {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 80%;
+  height: 50%;
+  left: 10%;
+  margin-bottom: 10%;
+  background-color: #fff;
+  -webkit-box-shadow: 3px 3px 32px 2px lightgray;
+  -moz-box-shadow: 3px 3px 32px 2px lightgray;
+  box-shadow: 3px 3px 32px 2px lightgray;
+}
+.cardThreeGif {
+  width: 50%;
+  height: 100%;
+  align-items: center;
+}
+.cardThreeColumnRight {
+  width: 50%;
+  height: 100%;
+}
+.cardThreeText {
+  width: 100%;
+  height: 50%;
+  padding: 10px;
+  font-size: 1.41vw;
+}
+.cardThreeImg {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 50%;
+}
+.cardThreeImg1 {
+  display: inline-block;
+  width: 40%;
+  height: 100%;
+}
+.cardThreeImg2 {
+  display: inline-block;
+  width: 40%;
+  height: 100%;
+}
+.videoBlock {
+  position: relative;
+  height: 50%;
+  padding-bottom: 10%;
+}
+.video {
+  width: 100%;
+  height: 100%;
+}
+.videoText {
+  position: absolute;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+.bottomNav {
+  position: relative;
+  height: 400px;
+  bottom: 10%;
+}

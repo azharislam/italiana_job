@@ -1,0 +1,32 @@
+{
+	"it":
+	 {
+			"hero": {
+				"title": "ITALIANA",
+				"line1": "ITALIANA L'Italia vista dalla moda",
+				"year": "1971-2001",
+				"address": "Palazzo Reale di Milano",
+				"date": "Dal 22 febbraio al 6 maggio 2018"
+			},
+			"info": {
+				"title": "La Mostra",
+				"content": "Italiano Lorem ipsum dolor sit amet, sea magna epicurei ex. Nam appetere moderatius te, eu eam libris principes complectitur, sit quis oratio inciderint no. Oratio iisque efficiendi has ea. Vis suas eius cu, at mutat fierent sed. Ius ut unum nonumy adipiscing, qui unum debitis graecis et. Oportere interesset id his, in munere fabellas probatus duo. Ut his graeco assentior, eos graece verear nonumes ad. Denique recteque duo an. Eum option nostrum nominati an, per et oratio torquatos signiferumque, verear facilisi at quo. Quot eius augue et duo, mel fugit voluptatum no.",
+				"footnote": "Palazzo Reale di Milano dal 22 febbraio al 6 maggio 2018"
+			}
+	},
+	"en":
+	 {
+			"hero": {
+				"title": "ENGLANDIA",
+				"line1": "ENGLANDIA the English view from fashion",
+				"year": "1971-2001",
+				"address": "Royal Palace of Milan",
+				"date": "From 22 February to 6 March 2018"
+			},
+			"info": {
+				"title": "The Exhibition",
+				"content": "Lorem ipsum dolor sit amet, sea magna epicurei ex. Nam appetere moderatius te, eu eam libris principes complectitur, sit quis oratio inciderint no. Oratio iisque efficiendi has ea. Vis suas eius cu, at mutat fierent sed. Ius ut unum nonumy adipiscing, qui unum debitis graecis et. Oportere interesset id his, in munere fabellas probatus duo. Ut his graeco assentior, eos graece verear nonumes ad. Denique recteque duo an. Eum option nostrum nominati an, per et oratio torquatos signiferumque, verear facilisi at quo. Quot eius augue et duo, mel fugit voluptatum no.",
+				"footnote": "Royal Palace of Milan from 22 February to 6 March 2018"
+			}
+	}
+}

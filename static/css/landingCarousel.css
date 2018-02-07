@@ -1,0 +1,9 @@
+.landingDots {
+	position: absolute;
+	width: 20px;
+	top: 50%;
+	transform: translateY(-25%);
+}
+.landingCarouselContainer {
+	position: relative;
+}

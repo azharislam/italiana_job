@@ -1,0 +1,41 @@
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 100%;
+  width: 100%;
+}
+
+.navgroup {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 40%;
+}
+
+.arrow {
+  height: 50%;
+}
+
+.roomName {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.link {
+  color: black;
+  font-size: 25px;
+  font-family: verdana;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+  height: 50%;
+}
+
+.arrowAndText {
+  height: 40%;
+}

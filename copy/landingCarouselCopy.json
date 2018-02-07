@@ -1,0 +1,48 @@
+{
+	"it":{
+		"rooms":[
+			{"roomName": "Identità",
+			"roomDetails": "Opere d’arte, fotografie, oggetti di design",
+			"roomImageUrl":"../static/images/landingRoom1.jpg"},
+			{"roomName": "Gusto",
+			"roomDetails": "La democratizzazione del gusto, una produzione industriale sempre di qualità",
+			"roomImageUrl":"../static/images/landingRoom2.jpg"},
+			{"roomName": "Total look",
+			"roomDetails": "L'industria della moda italiana è la prima che propone l'immagine coordinata",
+			"roomImageUrl":"../static/images/landingRoom3.jpg"},
+			{"roomName": "Altrove",
+			"roomDetails": "Il viaggio per tutti",
+			"roomImageUrl":"../static/images/landingRoom4.jpg"},
+			{"roomName": "Post Moderno",
+			"roomDetails": "Come gli stilisti guardano al passato",
+			"roomImageUrl":"../static/images/landingRoom5.jpg"},
+			{"roomName": "Su misura",
+			"roomDetails": "Fatto a mano in quantità illimitata",
+			"roomImageUrl":"../static/images/landingRoom6.jpg"}
+		],
+		"enterButton": "Entra"
+	},
+	"en":{
+		"rooms":[
+			{"roomName": "Identity",
+			"roomDetails": "Artwork, photographs, design objects",
+			"roomImageUrl":"../static/images/landingRoom1.jpg"},
+			{"roomName": "Taste",
+			"roomDetails": "The democratization of taste, an industrial production always of quality",
+			"roomImageUrl":"../static/images/landingRoom2.jpg"},
+			{"roomName": "Total look",
+			"roomDetails": "The Italian fashion industry is the first to offer the coordinated image",
+			"roomImageUrl":"../static/images/landingRoom3.jpg"},
+			{"roomName": "Elsewhere",
+			"roomDetails": "The trip for all",
+			"roomImageUrl":"../static/images/landingRoom4.jpg"},
+			{"roomName": "Post Modern",
+			"roomDetails": "As designers look to the past",
+			"roomImageUrl":"../static/images/landingRoom5.jpg"},
+			{"roomName": "Tailored",
+			"roomDetails": "Hand made in unlimited quantities",
+			"roomImageUrl":"../static/images/landingRoom6.jpg"}
+		],
+		"enterButton": "Enter"
+	}
+}

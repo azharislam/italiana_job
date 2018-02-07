@@ -1,0 +1,61 @@
+.landingSlideDetails{
+    width: 50%;
+    text-align: center;
+    font-family: "Arial Narrow", arial, sans-serif;
+    letter-spacing: 1px;
+    padding: 0px 8% 0px 8%;
+    align-items:center;
+    justify-content: center;
+    height: inherit;
+    flex-grow:0;
+    display: flex;
+}
+
+.landingSlide{
+	display: flex;
+	height:100vh;
+	width:100%;
+}
+
+.landingSlideImage{
+    width: 50%;
+    height: 100%;
+}
+
+.landingSlideButton{
+    vertical-align: middle;
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    font-size: 15px;
+    border-width: 1px;
+    width: 100px;
+    padding: 8px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration:  none;
+}
+.landingSlideButton, .landingSlideButton:visited, .landingSlideButton:hover, .landingSlideButton:active {
+    color: inherit;
+}
+
+.landingSlideRoomNumber{
+	font-size: 70px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.landingSlideRoomName{
+	font-size: 50px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	letter-spacing: 3px;
+}
+
+.landingSlideRoomDescription{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	letter-spacing: 1px;
+	font-size: 20px;
+}

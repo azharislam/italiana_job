@@ -1,0 +1,107 @@
+{
+  "rooms": [
+    {
+      "pageHeader": "Titolo della pagina - Room 1",
+      "carouselImages":[
+        "https://i.pinimg.com/736x/c8/71/33/c871337a7dba9488761dbc3d4ca8619f--photography-portraits-freckle-photography.jpg",
+        "https://static.pexels.com/photos/279/black-and-white-branches-tree-high.jpg"
+
+      ],
+      "cardOne": {
+        "title": "Stanza 5: Post Moderno",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..",
+        "image": "https://i.pinimg.com/736x/c8/71/33/c871337a7dba9488761dbc3d4ca8619f--photography-portraits-freckle-photography.jpg"
+      },
+      "backgroundImg": "https://static.pexels.com/photos/279/black-and-white-branches-tree-high.jpg",
+      "cardTwo": {
+        "image": "https://i2.wp.com/digital-photography-school.com/wp-content/uploads/2012/03/2731850527_b10e3cb400_z.jpg?resize=600%2C400&ssl=1",
+        "title": "Titolo immagine",
+        "subTitle": "Sottitolo immagine",
+        "link": "card two link for button",
+        "linkText": "Mostra"
+      },
+      "cardThree": {
+        "mainImage": "http://24.media.tumblr.com/fdcfa396c86688497bdce320bac7cb76/tumblr_mux4wmlnSm1rkf2rso1_500.gif",
+        "title": "Titolo collezione",
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex",
+        "subImage1": "https://i.pinimg.com/736x/e4/23/64/e423648cbe53de3383aa16e359011ed0--monochrome-photography-black-white-photography.jpg",
+        "subImage2": "https://i.pinimg.com/736x/e4/23/64/e423648cbe53de3383aa16e359011ed0--monochrome-photography-black-white-photography.jpg"
+      },
+      "video": {
+        "url": "https://www.youtube.com/embed/tE3_NyCs90I?rel=0&amp;showinfo=0",
+        "title": "video title",
+        "info": "video info text"
+      }
+    },
+    {
+      "pageHeader": "Titolo della pagina - Room 2",
+      "carouselImages":[
+        "https://i.pinimg.com/736x/c8/71/33/c871337a7dba9488761dbc3d4ca8619f--photography-portraits-freckle-photography.jpg",
+        "https://static.pexels.com/photos/279/black-and-white-branches-tree-high.jpg"
+
+      ],
+      "cardOne": {
+        "title": "card one title",
+        "info": "card one info",
+        "image": "card one image link"
+      },
+      "backgroundImg": "background image",
+      "cardTwo": {
+        "image": "card two image link",
+        "title": "card two title",
+        "subTitle": "card two subtitle",
+        "link": "card two link for button",
+        "linkText": "card two link text"
+      },
+      "cardThree": {
+        "mainImage": "card three title image link",
+        "title": "card three title",
+        "info": "card three info",
+        "subImage1": "card three sub image link 1",
+        "subImage2": "card three sub image link 2"
+      },
+      "video": {
+        "url": "video url",
+        "title": "video title",
+        "info": "video info text"
+      }
+    },
+    {
+      "pageHeader": "Titolo della pagina - Room 3",
+      "carouselImages":[
+        "https://i.pinimg.com/736x/c8/71/33/c871337a7dba9488761dbc3d4ca8619f--photography-portraits-freckle-photography.jpg",
+        "https://static.pexels.com/photos/279/black-and-white-branches-tree-high.jpg"
+
+      ],
+      "cardOne": {
+        "title": "card one title",
+        "info": "card one info",
+        "image": "card one image link"
+      },
+      "backgroundImg": "background image",
+      "cardTwo": {
+        "image": "card two image link",
+        "title": "card two title",
+        "subTitle": "card two subtitle",
+        "link": "card two link for button",
+        "linkText": "card two link text"
+      },
+      "cardThree": {
+        "mainImage": "card three title image link",
+        "title": "card three title",
+        "info": "card three info",
+        "subImage1": "card three sub image link 1",
+        "subImage2": "card three sub image link 2"
+      },
+      "video": {
+        "url": "video url",
+        "title": "video title",
+        "info": "video info text"
+      }
+    }
+  ],
+  "bottomNav": {
+    "nextText": "Stanza precedente",
+    "previousText": "Stanza successiva"
+  }
+}

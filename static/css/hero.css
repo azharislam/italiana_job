@@ -1,0 +1,60 @@
+body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.landing {
+  background-color: blue;
+	background-image: url("../images/hero.jpg");
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-position:top;
+	height: 100vh;
+	display: flex;
+	flex-direction: column-reverse;
+}
+
+.info {
+  background-color: white;
+	padding: 50px;
+	padding-left: 90px;
+	padding-right: 400px;
+	font-family: "Arial Narrow", arial, sans-serif;
+	letter-spacing: 0.5px;
+}
+
+.landingInfo {
+	flex-grow: 0;
+  background-color: rgba(126, 111, 111, 0.28);
+	color:white;
+	margin-left: 90px;
+	margin-bottom: 22px;
+	display: inline-block;
+	font-family: "Arial Narrow", arial, sans-serif;
+	font-weight: 200;
+	letter-spacing: 2px;
+}
+
+.infoTitle {
+	font-size: 40px;
+	margin-bottom: 10px;
+}
+
+.landingTitle {
+	font-size: 76px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.landingAddress {
+	margin-top: 15px;
+	margin-bottom:20px;
+	font-size: 34px;
+}
+
+.landingInfo p{
+	font-size: 34px;
+	margin-bottom: 0px;
+	margin-top:0px;
+}
